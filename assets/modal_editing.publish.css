@@ -1,0 +1,20 @@
+p.notice,
+h1,
+#nav {
+	display: none;
+}
+
+.footer,
+#version,
+#usr {
+	display: none;
+}
+
+form {
+	top: 5.5em;
+}
+
+div.actions {
+height: 20px;
+padding:5px 0 5px;
+}
