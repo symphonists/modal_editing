@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="modal_editing" status="experimental" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Modal Editing</name>
+	<description>Edit content from the frontend by loading Symphony into a lightbox</description>
+	<repo type="github">https://github.com/nickdunn/modal_editing</repo>
+	<types>
+		<type>Workflow</type>
+		<type>User Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nickdunn" symphony="nickdunn">Nick Dunn</name>
+			<website>http://nick-dunn.co.uk</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1alpha" date="2011-12-12" min="2.0.7" max="2.2.x" />
+	</releases>
+</extension>
